@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "6730c2800744ea59",
+    "type": "split",
+    "children": [
+      {
+        "id": "26084bb08dd1a023",
+        "type": "tabs",
+        "dimension": 70.58103975535168,
+        "children": [
+          {
+            "id": "f62c08ed5320fce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Adventure 0, Train Attack/Mar 2, 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mar 2, 2026"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ba92299aa3871112",
+        "type": "split",
+        "dimension": 29.418960244648318,
+        "children": [
+          {
+            "id": "4d10dd556bbd0ad1",
+            "type": "tabs",
+            "dimension": 74.2248062015504,
+            "children": [
+              {
+                "id": "50f3afc56689c46c",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          },
+          {
+            "id": "052c406051114a63",
+            "type": "tabs",
+            "dimension": 25.775193798449614,
+            "children": [
+              {
+                "id": "0bad986b53610b6a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Character Stuff/Dice and Numbers.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dice and Numbers"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f11ba90f9f90039",
+    "type": "split",
+    "children": [
+      {
+        "id": "a836446d4abe377c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954a304ba8a3fff7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1b307dc32ea0e06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Caz",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aab1d2760623d6fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "3ec6ead8bf032899",
+    "type": "split",
+    "children": [
+      {
+        "id": "59f84783a011df22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e862021ab71ad486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Adventure 0, Train Attack/Feb. 23, 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Feb. 23, 2026"
+            }
+          },
+          {
+            "id": "f540c00ffa0eedeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Adventure 0, Train Attack/Feb. 23, 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Feb. 23, 2026"
+            }
+          },
+          {
+            "id": "0369ca45565e3a7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8901db792cff443",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1629f56f6569874c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Morvenn Vahl.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Morvenn Vahl"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f62c08ed5320fce9",
+  "lastOpenFiles": [
+    "Session Notes/Adventure 0, Train Attack/Mar 9, 2026.md",
+    "Templates/New Session.md",
+    "Session Notes/Adventure 0, Train Attack/Mar 2, 2026.md",
+    "Session Notes/Untitled.md",
+    "Session Notes/Adventure 0, Train Attack/Feb 23, 2026.md",
+    "Session Notes/Adventure 0, Train Attack/Feb 16, 2026.md",
+    "Templates",
+    "Feb. 23, 2026^.md",
+    "World/People/Town of Quickstone/Tashka.md",
+    "Character Stuff/Dice and Numbers.md",
+    "World/Locations/Towns/Quickstone.md",
+    "World/People/Town of Quickstone/Sheriff Constable.md",
+    "World/People/Town of Quickstone/Facet.md",
+    "World/Locations",
+    "World/World Notes.md",
+    "Character Stuff/Catherine Vhal Notes.md",
+    "World/Maps/Town of Quickstone.jpg",
+    "World/Maps/World Map.webp",
+    "Characters/Untitled.md",
+    "Session Notes/Adventure 0, Train Attack",
+    "World/Locations/Towns",
+    "World/Maps",
+    "Sherriff Constable.md",
+    "World/People.md",
+    "World/People/Town of Quickstone",
+    "World/People",
+    "Untitled.md",
+    "Session Notes",
+    "World/Modrinth_files/m-outer-3437aaddcdf6922d623e172c2d6f9278_data/inner_data/out-4.5.45.js",
+    "World/Modrinth_files/m-outer-3437aaddcdf6922d623e172c2d6f9278_data/inner_data",
+    "World/Modrinth_files/thumbnail.webp",
+    "World/Modrinth_files/thumbnail_002.webp",
+    "World/Modrinth_files/eeb4cf85dc6eb2e1a73c1f76ac21c2d8e8f29b52_96.webp",
+    "World/Modrinth_files/eec48b61dd068dc5b8b3b4c54e5279e4d0a38ab5_96.webp",
+    "World/Modrinth_files/launcher.webp",
+    "World/Modrinth_files/ff2c21dadee9cec37d08466348ce6b5e412ca646_96.webp",
+    "World/Modrinth_files/e6a99e315b79c29d6540b8d4351b1ad308f84271_96.webp",
+    "World/Modrinth_files/e8e247a76c27e62cee40dbbdcc5424bdbe5931f0_96.webp",
+    "Templates/Character Sheet.md",
+    "Untitled 1.md"
+  ]
+}

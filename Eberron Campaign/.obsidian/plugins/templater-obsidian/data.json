@@ -1,0 +1,38 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "prev_session",
+      "daily_notes_path=\"$(pwd)/Notes - Daily\" \nprev_format=\"Previous\" \nprev_note=\"$(/bin/ls \"${daily_notes_path}\" | tail -n2 | head -n1 | cut -f 1 -d '.')\" \n\necho \"[[${prev_note}|$prev_format]]\""
+    ],
+    [
+      "next_session",
+      "daily_notes_path=\"$(pwd)\\Session Notes\\Adven\" \nnext_format=\"Next\" \nprev_note=\"$(/bin/ls $daily_notes_path | tail -n2 | head -n1)\" sed -i \"\" \"s/${next_format}/[[<% tp.file.title %>|${next_format}]]/g\" \"${daily_notes_path}/${prev_note}\" \n\necho $next_format"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": false,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": 1
+}
