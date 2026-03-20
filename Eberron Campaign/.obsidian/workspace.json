@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Adventure 0, Train Attack/Mar 2, 2026.md",
+                "file": "Session Notes/Adventure 0, Train Attack/Mar. 9th, 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mar 2, 2026"
+              "title": "Mar. 9th, 2026"
             }
           }
         ]
@@ -32,7 +32,7 @@
           {
             "id": "4d10dd556bbd0ad1",
             "type": "tabs",
-            "dimension": 74.2248062015504,
+            "dimension": 72.96511627906976,
             "children": [
               {
                 "id": "50f3afc56689c46c",
@@ -49,7 +49,7 @@
           {
             "id": "052c406051114a63",
             "type": "tabs",
-            "dimension": 25.775193798449614,
+            "dimension": 27.03488372093023,
             "children": [
               {
                 "id": "0bad986b53610b6a",
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Caz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,24 +233,28 @@
   },
   "active": "f62c08ed5320fce9",
   "lastOpenFiles": [
+    "Character Stuff/Dice and Numbers.md",
+    "Session Notes/Adventure 0, Train Attack/Mar. 9th, 2026.md",
+    "Templates/Daily Note.md",
+    "Templates",
+    "World/World Notes.md",
+    "2026-03-09.md",
+    "World/Maps/World Map.webp",
+    "World/Maps/Town of Quickstone.jpg",
+    "Session Notes/Adventure 0, Train Attack/Mar. 2nd, 2026.md",
+    "World/People/Town of Quickstone/Facet.md",
+    "Session Notes/Adventure 0, Train Attack/Feb. 23rd, 2026.md",
+    "World/Locations/Towns/Quickstone.md",
+    "World/People/Town of Quickstone/Tashka.md",
+    "Session Notes/Adventure 0, Train Attack/Feb. 16th, 2026.md",
     "Session Notes/Adventure 0, Train Attack/Mar 9, 2026.md",
     "Templates/New Session.md",
-    "Session Notes/Adventure 0, Train Attack/Mar 2, 2026.md",
     "Session Notes/Untitled.md",
-    "Session Notes/Adventure 0, Train Attack/Feb 23, 2026.md",
-    "Session Notes/Adventure 0, Train Attack/Feb 16, 2026.md",
     "Templates",
     "Feb. 23, 2026^.md",
-    "World/People/Town of Quickstone/Tashka.md",
-    "Character Stuff/Dice and Numbers.md",
-    "World/Locations/Towns/Quickstone.md",
     "World/People/Town of Quickstone/Sheriff Constable.md",
-    "World/People/Town of Quickstone/Facet.md",
     "World/Locations",
-    "World/World Notes.md",
     "Character Stuff/Catherine Vhal Notes.md",
-    "World/Maps/Town of Quickstone.jpg",
-    "World/Maps/World Map.webp",
     "Characters/Untitled.md",
     "Session Notes/Adventure 0, Train Attack",
     "World/Locations/Towns",
@@ -262,7 +266,6 @@
     "Untitled.md",
     "Session Notes",
     "World/Modrinth_files/m-outer-3437aaddcdf6922d623e172c2d6f9278_data/inner_data/out-4.5.45.js",
-    "World/Modrinth_files/m-outer-3437aaddcdf6922d623e172c2d6f9278_data/inner_data",
     "World/Modrinth_files/thumbnail.webp",
     "World/Modrinth_files/thumbnail_002.webp",
     "World/Modrinth_files/eeb4cf85dc6eb2e1a73c1f76ac21c2d8e8f29b52_96.webp",

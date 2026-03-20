@@ -1,4 +1,4 @@
-[[Feb 23, 2026|Next Session ->]]  
+[[Feb. 23rd, 2026|Next Session ->]]  
 The trains piolet (ticket guy) being held aloft by a stone woman with black and white rings. She killed the guy. She grabbed the crystal that was in the "engine" of the lightning rail and blew it up. The train was hurling at the city and about to crash into the terminus station. ^ef8e5f
 
 Arrived in the town of [[Quickstone|Quickstone]] and met a towering Warforged named [[Sheriff Constable]]. He told us to go to the [[Quickstone#Town Hall|Town Hell]] tomorrow at dawn to give statements about the attack

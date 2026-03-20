@@ -5,4 +5,4 @@ Magistrate of Quickstone
 
 ## Notes
 - Deputized the party and gave us our first 3 quests
-	- [[Feb 16, 2026|Source]]
+	- [[Feb. 16th, 2026|Source]]

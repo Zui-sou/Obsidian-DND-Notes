@@ -1,5 +1,5 @@
-[[Feb 16, 2026|<- Previous Session]]
-[[Mar 2, 2026|Next Session ->]]
+[[Feb. 16th, 2026|<- Previous Session]]
+[[Mar. 2nd, 2026|Next Session ->]]
 we went to the quarry and its closed due to a collapse. scary animal sounds coming from the collapse. 
 
 Went to the Stone Soup and Val pissed off the whole tavern of dwarven miners. 
@@ -16,4 +16,4 @@ Talked with Bruus again, he was uncomfortable with "people dragging his friends 
 
 Visited Grizzley camp. Human woman sergeant with a warhammer resting on her shoulder. There is another soldier standing next to her. Sergeant Jessica Graham (HumF) muscle mommy. Warhammer is very well made, assuming dwarven and very battle hardened. Met Pvt Johnson, childhood friends with Percival. Knew about the dagger, said he got it from his father but the fathers story never added up. Father was a Grizzley vet. Fathers name is Edmon. One night Edmon and Pvt Johnsons dad got drunk and Edmon bragged that he stole the dagger from a priest of mountain kobolds. Stole the dagger around the Brelin and Dromm border.
 
-I guess we go to the Kobolds. Tents shaped like armadillo shells. Blue scaled kobolds holding many wands approaches. Val and this Kobold are very good friends. Questioned about the phrase "for the stone" the attackers yelled. Komaz dolls??? in the scomas valley are the ones who attacked. Calles them fools for following the old evils. Rumors that they have turned their back on traditional practices and have been seduced by the dark powers. Only wanted the dagger because they were ordered to take it, probably as a key. Not sure about relation with gargoyles. Plenty of gargoyles in Kazaak Draal.
+I guess we go to the Kobolds. Tents shaped like armadillo shells. Blue scaled kobolds holding many wands approaches. Val and this Kobold are very good friends. Questioned about the phrase "for the stone" the attackers yelled. Komaz dolls??? in the scomas valley are the ones who attacked. Calles them fools for following the old evils. Rumors that they have turned their back on traditional practices and have been seduced by the dark powers. Only wanted the dagger because they were ordered to take it, probably as a key. Not sure about relation with gargoyles. Plenty of gargoyles in Cazaak Draal.
