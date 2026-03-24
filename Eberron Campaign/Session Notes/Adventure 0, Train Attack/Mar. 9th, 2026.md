@@ -1,4 +1,5 @@
 [[Mar. 2nd, 2026|<- Previous Session]]
+[[Mar. 23rd, 2026|Next Session ->]]
 Went back to the town hall and talked to Facet and Gareth Stone. They asked for us to explain what happened in the mine. 
 Facet offered the party 100gp each to find all the weapons and seal away the evils. After discussing with Facet and Gareth, we have brain stormed the following things:
 - The Kobolds reside in the Scomaz valley
@@ -68,3 +69,4 @@ We travel to the Salt Flats and Lake Raat
 
 After combat Hirrd'an talked to us
 - She said she is a herald of the gate keepers.
+- He had stone tongue

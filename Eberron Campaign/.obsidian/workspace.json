@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Adventure 0, Train Attack/Mar. 9th, 2026.md",
+                "file": "Session Notes/Adventure 0, Train Attack/Mar. 23rd, 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mar. 9th, 2026"
+              "title": "Mar. 23rd, 2026"
             }
           }
         ]
@@ -49,7 +49,7 @@
           {
             "id": "052c406051114a63",
             "type": "tabs",
-            "dimension": 27.03488372093023,
+            "dimension": 27.034883720930235,
             "children": [
               {
                 "id": "0bad986b53610b6a",
@@ -233,17 +233,19 @@
   },
   "active": "f62c08ed5320fce9",
   "lastOpenFiles": [
-    "Character Stuff/Dice and Numbers.md",
-    "Session Notes/Adventure 0, Train Attack/Mar. 9th, 2026.md",
     "Templates/Daily Note.md",
+    "Session Notes/Adventure 0, Train Attack/Mar. 23rd, 2026.md",
+    "World/Maps/World Map.webp",
+    "Session Notes/Adventure 0, Train Attack/Mar. 9th, 2026.md",
+    "Session Notes/Adventure 0, Train Attack/Mar. 2nd, 2026.md",
+    "Session Notes/Adventure 0, Train Attack/Feb. 23rd, 2026.md",
+    "Character Stuff/Catherine Vhal Notes.md",
+    "Character Stuff/Dice and Numbers.md",
     "Templates",
     "World/World Notes.md",
     "2026-03-09.md",
-    "World/Maps/World Map.webp",
     "World/Maps/Town of Quickstone.jpg",
-    "Session Notes/Adventure 0, Train Attack/Mar. 2nd, 2026.md",
     "World/People/Town of Quickstone/Facet.md",
-    "Session Notes/Adventure 0, Train Attack/Feb. 23rd, 2026.md",
     "World/Locations/Towns/Quickstone.md",
     "World/People/Town of Quickstone/Tashka.md",
     "Session Notes/Adventure 0, Train Attack/Feb. 16th, 2026.md",
@@ -254,7 +256,6 @@
     "Feb. 23, 2026^.md",
     "World/People/Town of Quickstone/Sheriff Constable.md",
     "World/Locations",
-    "Character Stuff/Catherine Vhal Notes.md",
     "Characters/Untitled.md",
     "Session Notes/Adventure 0, Train Attack",
     "World/Locations/Towns",
