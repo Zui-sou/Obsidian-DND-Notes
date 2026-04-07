@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Adventure 0, Train Attack/Mar. 23rd, 2026.md",
+                "file": "Session Notes/Adventure 0, Train Attack/Apr. 6th, 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mar. 23rd, 2026"
+              "title": "Apr. 6th, 2026"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -233,13 +233,15 @@
   },
   "active": "f62c08ed5320fce9",
   "lastOpenFiles": [
-    "Templates/Daily Note.md",
+    "Character Stuff/Catherine Vhal Notes.md",
+    "Session Notes/Adventure 0, Train Attack/Apr. 6th, 2026.md",
     "Session Notes/Adventure 0, Train Attack/Mar. 23rd, 2026.md",
-    "World/Maps/World Map.webp",
+    "Templates/Daily Note.md",
     "Session Notes/Adventure 0, Train Attack/Mar. 9th, 2026.md",
+    "Session Notes/Adventure 0, Train Attack/Feb. 16th, 2026.md",
+    "World/Maps/World Map.webp",
     "Session Notes/Adventure 0, Train Attack/Mar. 2nd, 2026.md",
     "Session Notes/Adventure 0, Train Attack/Feb. 23rd, 2026.md",
-    "Character Stuff/Catherine Vhal Notes.md",
     "Character Stuff/Dice and Numbers.md",
     "Templates",
     "World/World Notes.md",
@@ -248,7 +250,6 @@
     "World/People/Town of Quickstone/Facet.md",
     "World/Locations/Towns/Quickstone.md",
     "World/People/Town of Quickstone/Tashka.md",
-    "Session Notes/Adventure 0, Train Attack/Feb. 16th, 2026.md",
     "Session Notes/Adventure 0, Train Attack/Mar 9, 2026.md",
     "Templates/New Session.md",
     "Session Notes/Untitled.md",

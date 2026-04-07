@@ -1,5 +1,5 @@
 [[Mar. 9th, 2026|<- Previous Session]]
-[[|Next Session ->]]
+[[Apr. 6th, 2026|Next Session ->]]
 While talking with Hirrad'an, the monolith is an ancient burial site. 
 - She is apart of the gate keepers.
 	- the gate keepers protect the world from delkier
